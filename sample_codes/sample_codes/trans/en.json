@@ -1,0 +1,12 @@
+{
+    "pages": {
+        "home": "Home",
+        "about": "About us",
+        "contact": "Contcat",
+        "product": "Products"
+    },
+    "currency": {
+        "kh": "Riel",
+        "en": "USD"
+    }
+}
